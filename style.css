@@ -26,3 +26,9 @@
     font-weight: bold;
     color: rgb(85, 147, 241);;
 }
+
+img {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
